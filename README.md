@@ -53,35 +53,16 @@ O projeto foi estruturado utilizando a arquitetura **MVC** para separar a lógic
 
 ## Capturas de Tela
 
-### Tela Inicial
-![Tela Inicial](screenshots/1.png)
-
-### Tela de Produtos
-![Tela de Produtos](screenshots/2.png)
-
-### Tela de Categorias
-![Tela de Categorias](screenshots/3.png)
-
-### Filtro de Produtos
-![Filtro de Produtos](screenshots/4.png)
-
-### Paginação de Produtos em Promoção
-![Paginação de Produtos](screenshots/5.png)
-
-### Produtos Filtrados
-![Produtos Filtrados](screenshots/6.png)
-
-### Categoria Filtrada
-![Categoria Filtrada](screenshots/7.png)
-
-### Detalhes de Produto
-![Detalhes de Produto](screenshots/8.png)
-
-### Tela de Promoções
-![Tela de Promoções](screenshots/9.png)
-
-### Confirmação de Compra
-![Confirmação de Compra](screenshots/10.png)
+![Tela Inicial](assets/screenshots)
+![Tela de Produtos](assets/screenshots/2.png)
+![Tela de Categorias](assets/screenshots/3.png)
+![Filtro de Produtos](assets/screenshots/4.png)
+![Paginação de Produtos](assets/screenshots/5.png)
+![Produtos Filtrados](assets/screenshots/6.png)
+![Categoria Filtrada](assets/screenshots/7.png)
+![Detalhes de Produto](assets/screenshots/8.png)
+![Tela de Promoções](assets/screenshots/9.png)
+![Confirmação de Compra](assets/screenshots/10.png)
 
 ## Testes
 
