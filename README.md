@@ -12,6 +12,26 @@ Este projeto faz parte do teste técnico para a vaga de Coordenador de Conteúdo
 - **Filtros Personalizados por Categoria**: Permite que os usuários apliquem filtros personalizados na tela de categorias para refinar a busca.
 - **Filtro de Produtos na Home**: Um filtro que permite ao usuário buscar produtos diretamente pela tela principal.
 
+## Capturas de Tela
+
+<p align="center">
+  <img src="assets/screenshots/1.png" alt="Tela Inicial" width="200"/>
+  <img src="assets/screenshots/2.png" alt="Tela de Produtos" width="200"/>
+  <img src="assets/screenshots/3.png" alt="Tela de Categorias" width="200"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/4.png" alt="Filtro de Produtos" width="200"/>
+  <img src="assets/screenshots/5.png" alt="Paginação de Produtos" width="200"/>
+  <img src="assets/screenshots/6.png" alt="Produtos Filtrados" width="200"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/7.png" alt="Categoria Filtrada" width="200"/>
+  <img src="assets/screenshots/8.png" alt="Detalhes de Produto" width="200"/>
+  <img src="assets/screenshots/9.png" alt="Tela de Promoções" width="200"/>
+</p>
+
 ## Endpoints Utilizados
 
 - **Categorias**: [Categorias JSON](https://gist.githubusercontent.com/viniciosneves/68bc50d055acb4ecc7356180131df477/raw/14369c7e25fca54941f5359299b3f4f118a573d6/usedev-categorias.json)
@@ -51,18 +71,13 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
 O projeto foi estruturado utilizando a arquitetura **MVC** para separar a lógica de negócios, a interface do usuário e o acesso a dados. Essa abordagem facilita a manutenção e a escalabilidade do código.
 
-## Capturas de Tela
 
-![Tela Inicial](assets/screenshots)
-![Tela de Produtos](assets/screenshots/2.png)
-![Tela de Categorias](assets/screenshots/3.png)
-![Filtro de Produtos](assets/screenshots/4.png)
-![Paginação de Produtos](assets/screenshots/5.png)
-![Produtos Filtrados](assets/screenshots/6.png)
-![Categoria Filtrada](assets/screenshots/7.png)
-![Detalhes de Produto](assets/screenshots/8.png)
-![Tela de Promoções](assets/screenshots/9.png)
-![Confirmação de Compra](assets/screenshots/10.png)
+
+## Cobertura de Testes
+
+<p align="center">
+  <img src="assets/screenshots/10.png" alt="Confirmação de Compra" width="200"/>
+</p>
 
 ## Testes
 
